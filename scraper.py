@@ -34,3 +34,4 @@ for p_job in python_jobs:
 
 
 #(ref https://github.com/realpython/materials/blob/master/web-scraping-bs4/job_search.py)
+#check streeteasy next
